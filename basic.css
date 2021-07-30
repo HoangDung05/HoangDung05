@@ -1,0 +1,13 @@
+body {
+    background: #FFD2FF;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+p {
+    text-indent: 50px;
+    letter-spacing: 3px;
+    text-align: justify;
+}
